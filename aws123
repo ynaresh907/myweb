@@ -3,3 +3,8 @@ igw
 subnet
 rtb
 sg
+elb
+ebs
+s3
+rds
+terraform
