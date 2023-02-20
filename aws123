@@ -8,3 +8,8 @@ ebs
 s3
 rds
 terraform
+cloud formation
+dynamodb
+mysql
+oracle
+mongo db
