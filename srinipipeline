@@ -1,1 +1,5 @@
 in this pipe line we will ci/cd jenkins with tomcat
+ansible
+docker
+k8s
+sonar and nexus
