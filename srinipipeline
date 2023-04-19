@@ -3,3 +3,7 @@ ansible
 docker
 k8s
 sonar and nexus
+pods
+rs
+autoscaling
+loadbalancer
