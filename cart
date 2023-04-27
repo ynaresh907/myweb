@@ -3,3 +3,7 @@ subnet
 sg
 rtb
 igw
+linux
+solaris
+ibm-aix
+hp-unix
