@@ -1,0 +1,1 @@
+Group of containers is called pod
