@@ -5,3 +5,7 @@ linux
 docker
 kubernetes
 ansible
+pods
+replicas
+services
+asg
