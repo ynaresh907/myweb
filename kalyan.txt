@@ -5,4 +5,9 @@ vpc
 subnet
 sg
 rtb
-igw123456
+igw
+123456
+terraform
+ansible
+docker
+k8's
